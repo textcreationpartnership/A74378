@@ -1,0 +1,171 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act for suppressing the detestable sins of incest, adultery and fornication.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74378</idno>
+            <idno type="STC">Thomason E1060_99</idno>
+            <idno type="STC">ESTC R208855</idno>
+            <idno type="EEBO-CITATION">99867774</idno>
+            <idno type="PROQUEST">99867774</idno>
+            <idno type="VID">169048</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74378)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169048)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 157:E1060[99])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act for suppressing the detestable sins of incest, adultery and fornication.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>[2], 827-831 [i.e. 7] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Edward Husband and Iohn Field, printers to the Parliament of England,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>On 7K2: the last word of first line of text: 'of'; first word of line below initial: 'any'; the last word of last full line of text: 'or".</note>
+                  <note>Also issued as part of a through-paged folio set with a table for the entire set added.</note>
+                  <note>Ornament on t.p.; initial letter; text in black letter.</note>
+                  <note>Signatures: 7K⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Incest --  England --  Law and legislation --  Early works to 1800.</term>
+               <term>Adultery --  England --  Law and legislation --  Early works to 1800.</term>
+               <term>Prostitution --  Law and legislation --  Early works to 1800.</term>
+               <term>Sex and law --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169048:1" rendition="simple:additions"/>
+            <p>AN ACT For ſuppreſsing The Deteſtable SINS OF Inceſt, Adultery and Fornication.</p>
+            <figure>
+               <figDesc>blazon of the Commonwealth</figDesc>
+            </figure>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Die Veneris, Decimo Maii, 1650.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by the Parliament, That this Act be forthwith printed and publiſhed.</p>
+                        <closer>
+                           <signed>Hen: Scobell, Cleric. Parliamenti.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>Edward Husband</hi> and <hi>Iohn Field,</hi> Prin<g ref="char:EOLhyphen"/>ters to the Parliament of <hi>England,</hi> 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:169048:2"/>
+            <pb n="827" facs="tcp:169048:2"/>
+            <head>AN ACT For Suppreſsing The deteſtable Sins OF Inceſt, Adultery and Fornication.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Or the ſuppreſſing of the abominable and crying ſins of Inceſt, Adultery and Fornica<g ref="char:EOLhyphen"/>tion, wherewith this Land is much defiled, and Almighty God highly diſpleaſed; Be it Enacted by the Au<g ref="char:EOLhyphen"/>thority of this preſent Parliament, That if any perſon or perſons whatſoever, ſhall from and after the Four and twentieth day of <hi>June,</hi> in the year of our Lord One thouſand ſix hundred and fifty, Marry, or have the carnal knowledge of the Body of his or her Grandfather or Grand<g ref="char:EOLhyphen"/>mother, Father or Mother, Brother or Siſter, Son or Daughter, or Grandchilde, Fathers Brother or Siſter, Mothers Brother or Siſter, Fathers Wife, Mothers Husband, Sons Wife, Daughters Husband, Wives Mother or Daugh<g ref="char:EOLhyphen"/>ter, Husbands Father or Son; all and every ſuch Offences are hereby adjudged and declared Inceſt: And every ſuch Offence ſhall be, and is hereby adjudged Felony; and every perſon offending therein, and confeſſing the ſame, or
+<pb n="828" facs="tcp:169048:3"/> being thereof convicted by verdict upon Indict<g ref="char:EOLhyphen"/>ment or Preſentment, before any Iudge or Iu<g ref="char:EOLhyphen"/>ſtices at the Aſſize or Seſſions of the Peace, ſhall ſuffer death as in caſe of Felony, without benefit of Clergy: And all and every ſuch Mar<g ref="char:EOLhyphen"/>riage and Marriages are hereby declared and ad<g ref="char:EOLhyphen"/>judged to be void in Law, to all intents and pur<g ref="char:EOLhyphen"/>poſes; and the Children begotten between ſuch perſons, notwithſtanding any contract or ſo<g ref="char:EOLhyphen"/>lemnization of Marriage, to be illegitimate, and altogether diſabled to claim or inherit any Lands or Inheritance whatſoever, by way of deſcent from, or to receive or challenge any Childes Portion in any Goods or Chattels of their ſaid Parents, or any other Anceſtors of ſuch Parents. And be it further Enacted by the authority aforeſaid, That in caſe any mar<g ref="char:EOLhyphen"/>ried woman ſhall from and after the Four and twentieth day of <hi>June</hi> aforeſaid, be carnally known by any man (other then her Husband) (except in Caſe of Raviſhment) and of ſuch of<g ref="char:EOLhyphen"/>fence or offences ſhall be convicted as aforeſaid by confeſſion or otherwiſe, every ſuch Offence and Offences ſhall be and is hereby adjudged Felony; and every perſon, as well the man as the woman offending therein, and confeſſing the ſame, or being thereof convicted by verdict up<g ref="char:EOLhyphen"/>on Indictment or Preſentment as aforeſaid, ſhall ſuffer death as in caſe of Felony, without benefit of Clergy. Provided, That this ſhall not extend to any man who at the time of ſuch offence committed, is not knowing that ſuch woman with whom ſuch Offence is com<g ref="char:EOLhyphen"/>mitted is then marryed. Provided alſo, That the ſaid penalty in the caſe of Adultery aforeſaid, ſhall not extend to any woman whoſe Husband ſhall be continually remaining beyond the Seas
+<pb n="829" facs="tcp:169048:3"/> by the ſpace of three years, or ſhall by common fame be reputed to be dead; nor to any woman whoſe husband ſhall abſent himſelf from his ſaid wife by the ſpace of three years together, in any parts or places whatſoever, ſo as the ſaid wife ſhall not know her ſaid husband to be living within that time. And be it further Enacted by the authority aforeſaid, That if any man ſhall from and after the Four and twentieth day of <hi>June</hi> aforeſaid, have the carnal knowledge of the body of any Virgin, unmar<g ref="char:EOLhyphen"/>ried woman or widow, every ſuch man ſo offend<g ref="char:EOLhyphen"/>ing, and confeſſing the ſame, or being thereof con<g ref="char:EOLhyphen"/>victed by verdict upon Indictment or Preſent<g ref="char:EOLhyphen"/>ment, as alſo every ſuch woman ſo offending, and confeſsing the ſame, or being thereof convict as aforeſaid, ſhall for every ſuch offence be com<g ref="char:EOLhyphen"/>mitted to the common Goal, without Bail or Mainprize, there to continue for the ſpace of three Moneths; and until he and ſhe reſpectively ſhall give ſecurity, to be taken by one or more Iuſtice or Iuſtices of the Peace before whom ſuch Confeſsion or Conviction ſhall be had, to be of the good behavior for the ſpace of one whole year then next enſuing. And be it fur<g ref="char:EOLhyphen"/>ther Enacted by the authority aforeſaid, That all and every perſon and perſons who ſhall from and after the Four and twentieth day of <hi>June</hi> aforeſaid, be convicted as aforeſaid, by Confeſ<g ref="char:EOLhyphen"/>ſion or otherwiſe, for being a common Bawd, be it man or woman, or wittingly keeping a common Brothel or Bawdy-houſe, ſhall for his or her firſt offence be openly whipped and ſet in the Pillory, and there marked with a hot Iron in the forehead with the Letter <hi>B.</hi> and after<g ref="char:EOLhyphen"/>wards committed to Priſon or the Houſe of Cor<g ref="char:EOLhyphen"/>rection, there to work for his or her living for
+<pb n="830" facs="tcp:169048:4"/> the ſpace of three years, without Bail or Main<g ref="char:EOLhyphen"/>prize, and until he or ſhe ſhall put in ſufficient Sureties for his or her good behavior during his or her life: And if any perſon by confeſsion or otherwiſe ſhall be convicted of committing, after ſuch Conviction, any of the ſaid laſt re<g ref="char:EOLhyphen"/>cited offences, every ſuch ſecond offence ſhall be, and is hereby adjudged Felony; and the perſon and perſons ſo offending ſhall ſuffer death, as in caſe of Felony, without benefit of Clergy. And be it further Enacted by the authority aforeſaid, That the Iuſtices of Aſſize in their reſpective Circuits, and the Iuſtices of Peace in every county, at their uſual and General Seſſions, are hereby authorized and required to give in charge to the Grand Iury to enquire of all and every the Crimes aforeſaid: And the ſaid Iuſtices of Aſſize, Iuſtices of the Peace in their General Seſſions, and all and every Major and Iuſtices of Peace of any City, Borough or Town Corporate, that have power to hear and determine Felonies at their uſual Seſſions, ſhall have full power and au<g ref="char:EOLhyphen"/>thority to enquire by verdict of twelve or more good and lawful men, within the ſaid reſpective Counties and places aforeſaid, of all and every the crimes and offences aforeſaid; and upon Indictment or Preſentment, to hear and de<g ref="char:EOLhyphen"/>termine the ſame, as in other caſes of Felony or Treſpaſs, Any Law, Vſage or Cuſtom to the contrary notwithſtanding. Provided, That no Attainder for any offence made Felony by this Act, ſhall make or work any corruption of Blood, loſs of Dower, forfeiture of Goods, diſinheriſon of Heir or Heirs. Provided alſo, That no perſon or perſons ſhall incur any of the penalties in this Act mentioned, unleſs the
+<pb n="831" facs="tcp:169048:4"/> ſaid perſon or perſons be thereof indicted within twelve Moneths after the offence committed. Provided alſo, That it ſhall be lawful for any perſon or perſons who ſhall be indicted for any the offences aforeſaid, to produce at their re<g ref="char:EOLhyphen"/>ſpective Tryals any witneſs or witneſſes, for the clearing of themſelves from the ſaid offences whereof they ſhall be ſo indicted: And the Iuſtices before whom ſuch Tryal ſhall be ſo had, ſhall have power, and are hereby autho<g ref="char:EOLhyphen"/>rized to examine the ſaid witneſſes upon Oath. Provided, That no parties confeſsion ſhall be taken as Evidence within this Act againſt any other, but onely againſt ſuch party ſo confeſ<g ref="char:EOLhyphen"/>ſing; nor the husband ſhall be taken as a wit<g ref="char:EOLhyphen"/>neſs againſt his wife, nor the wife againſt her husband, for any offence puniſhable by this Act.</p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <opener>
+               <dateline>
+                  <date>Die Veneris, decimo Maii, 1650.</date>
+               </dateline>
+            </opener>
+            <p>ORdered by the Parliament, That this Act be forthwith printed and publiſhed.</p>
+            <closer>
+               <signed>Hen: Scobell, Cleric. Parliamenti.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
